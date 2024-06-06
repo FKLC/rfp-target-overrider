@@ -1,6 +1,6 @@
 # RFPTarget Overrider
 
-We are continuoing developemnt at [mozilla-extensions/fingerprinting-protection-debugger](https://github.com/mozilla-extensions/fingerprinting-protection-debugger)
+We are continuing development at [mozilla-extensions/fingerprinting-protection-debugger](https://github.com/mozilla-extensions/fingerprinting-protection-debugger)
 
 This is a Firefox extension to easily manage privacy.fingerprintingProtection.overrides using checkboxes. You can search, enable and disable specific targets or all of them at once. The extension is written with React. The experimental API is defined in public/api.mjs.
 
